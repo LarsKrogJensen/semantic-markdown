@@ -1,0 +1,22 @@
+{
+  "name": "sematic-markdown",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "github-markdown-css": "^2.9.0",
+    "markdown-it": "^8.4.0",
+    "marksy": "^5.0.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-scripts": "1.0.16",
+    "semantic-ui-css": "^2.2.12",
+    "semantic-ui-react": "^0.75.1",
+    "strip-indent": "^2.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
